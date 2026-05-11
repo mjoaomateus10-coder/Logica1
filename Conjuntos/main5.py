@@ -1,5 +1,5 @@
 # ========================================
-# EXERCÍCIO 4 - COMPRAS COM DESCONTO
+# EXERCÍCIO 5 - COMPRAS COM DESCONTO
 # ========================================
 print("=" * 50)
 print("EXERCÍCIO 4 - CÁLCULO DE COMPRAS COM DESCONTO")

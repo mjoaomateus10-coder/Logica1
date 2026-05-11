@@ -1,5 +1,5 @@
 # ========================================
-# EXERCÍCIO 3 - CALCULAR MÉDIA E CONCEITO
+# EXERCÍCIO 4 - CALCULAR MÉDIA E CONCEITO
 # ========================================
 print("=" * 50)
 print("EXERCÍCIO 3 - NOTAS DE 5 ALUNOS")

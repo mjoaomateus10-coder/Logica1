@@ -1,5 +1,5 @@
 # ========================================
-# EXERCÍCIO 2 - SOMA DE NÚMEROS PARES
+# EXERCÍCIO 3 - SOMA DE NÚMEROS PARES
 # ========================================
 print("=" * 50)
 print("EXERCÍCIO 2 - SOMA DE NÚMEROS PARES")
