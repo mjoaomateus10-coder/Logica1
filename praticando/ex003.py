@@ -1,0 +1,8 @@
+numeros = [10, 15, 22, 33, 40]
+
+for numero in numeros:
+
+    if numero % 2 == 0:
+        print(f'{numero} é par')
+    else:
+        print(f'{numero} é ímpar')
